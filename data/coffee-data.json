@@ -1,0 +1,76 @@
+{
+    "coffees": [
+      {
+        "id": "vampire-kiss",
+        "title": "Vampire's Kiss",
+        "image": "coffee1.jpg",
+        "description": "A dark roast with hints of cherry and blood orange, finished with a crimson foam that resembles the kiss of a vampire. Our signature drink that started it all.",
+        "ingredients": ["Dark roast coffee", "Cherry syrup", "Blood orange zest", "Crimson foam"],
+        "price": "5.99"
+      },
+      {
+        "id": "dracula-brew",
+        "title": "Dracula's Brew",
+        "image": "coffee2.jpg",
+        "description": "Inspired by the Count himself, this Romanian bean blend has notes of dark chocolate and blackberry with a mysterious smoky finish.",
+        "ingredients": ["Romanian coffee beans", "Dark chocolate", "Blackberry syrup", "Liquid smoke"],
+        "price": "6.49"
+      },
+      {
+        "id": "midnight-elixir",
+        "title": "Midnight Elixir",
+        "image": "coffee3.jpg",
+        "description": "A potent cold brew that will keep you awake through the darkest nights. Brewed for 13 hours under a full moon for maximum potency.",
+        "ingredients": ["Ethiopian Yirgacheffe beans", "Vanilla", "Cinnamon", "Moonwater ice cubes"],
+        "price": "5.79"
+      },
+      {
+        "id": "blood-moon-blend",
+        "title": "Blood Moon Blend",
+        "image": "coffee4.jpg",
+        "description": "Only available during lunar events, this special blend incorporates rare Indonesian beans with a hint of pomegranate.",
+        "ingredients": ["Indonesian Luwak beans", "Pomegranate syrup", "Cardamom", "Edible gold leaf"],
+        "price": "7.99"
+      },
+      {
+        "id": "transylvanian-mocha",
+        "title": "Transylvanian Mocha",
+        "image": "coffee5.jpg",
+        "description": "A rich chocolate-coffee hybrid with Romanian cocoa and a dash of cinnamon to ward off... well, you know.",
+        "ingredients": ["Espresso", "Romanian cocoa", "Steamed milk", "Cinnamon", "Whipped cream"],
+        "price": "6.29"
+      },
+      {
+        "id": "nightshade-latte",
+        "title": "Nightshade Latte",
+        "image": "coffee6.jpg",
+        "description": "A dangerously smooth latte with vanilla and just a hint of licorice root. Perfect for midnight rendezvous.",
+        "ingredients": ["Espresso", "Steamed milk", "Vanilla bean", "Licorice root", "Lavender"],
+        "price": "5.99"
+      },
+      {
+        "id": "crimson-cappuccino",
+        "title": "Crimson Cappuccino",
+        "image": "coffee7.jpg",
+        "description": "Our classic cappuccino with a bloody twist - beetroot powder gives it that signature crimson hue.",
+        "ingredients": ["Espresso", "Steamed milk", "Beetroot powder", "Cocoa"],
+        "price": "5.49"
+      },
+      {
+        "id": "bat-wing-brew",
+        "title": "Bat Wing Brew",
+        "image": "coffee8.jpg",
+        "description": "Don't worry, no bats were harmed - this dark, mysterious blend gets its name from the wing-shaped cinnamon art on top.",
+        "ingredients": ["Dark roast coffee", "Molasses", "Cinnamon", "Star anise"],
+        "price": "5.89"
+      },
+      {
+        "id": "eternal-darkness",
+        "title": "Eternal Darkness",
+        "image": "coffee9.jpg",
+        "description": "For those who truly embrace the night - a quadruple espresso with activated charcoal for that pitch-black color.",
+        "ingredients": ["4 shots of espresso", "Activated charcoal", "Dark cocoa", "Black salt rim"],
+        "price": "7.49"
+      }
+    ]
+  }
